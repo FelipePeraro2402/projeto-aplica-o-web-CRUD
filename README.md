@@ -3,5 +3,5 @@ projeto criado por meio de um tutorial e suporte dados pelo professor em sala de
 gerenciar registros de produtos em um banco de dados relacional. Implementaremos as quatro operações fundamentais do padrão CRUD (Create, Read, Update e Delete).
 
 Feito por:
-Felipe Peraro Gomes
+Felipe Peraro Gomes e
 João Victor Januário
